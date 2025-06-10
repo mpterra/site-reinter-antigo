@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+reinter2.furg.br	TRUE	/	FALSE	1999999999	3766d54ee756eff130a35f2e832479be	kd8dgios6pmvud0kknsnpjian2
+.www.mapasmundi.com.br	TRUE	/	FALSE	1999999999	__cf_bm	G2ASjsn4XvK0w27HS9WSNOY7Fm2L23Ki_YQSodVhxf4-1749495846-1.0.1.1-djdVzPyQY9hMW5v9khtMe5SAkYbzAwTJMSvKmiYGl6nvd4lnnVQFWFOw2Pxuq5L_cXc4Yx9vUpsuaqpl0tZ51tlnvFCYY3GZUndbKX_zmp4
+www.mapasmundi.com.br	TRUE	/	FALSE	1999999999	SameSite	None
+
